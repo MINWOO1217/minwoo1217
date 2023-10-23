@@ -6,3 +6,5 @@ print("morse =", morse_text)
 print("english = ", english_text)
 
 print("수정")
+print("수정")
+print("수정")
